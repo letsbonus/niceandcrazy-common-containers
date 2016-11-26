@@ -1,0 +1,1 @@
+Common containers to run the different Nice & Crazy applications.
